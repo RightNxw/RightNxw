@@ -36,8 +36,3 @@ My name is <strong>Ricardo</strong> and I am an <strong> aspiring software engin
 </div>
 
 
-### Github stats
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RightNxw&count_private=true&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RightNxw&theme=tokyonight)
