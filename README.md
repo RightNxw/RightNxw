@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 <div>
-My name is <strong>Ricardo</strong> and I am an <strong> aspiring software engineer</strong> from Southern California. I enjoy working with following technologies listed under <strong>Tech Stack!</strong>
+My name is <strong>Ricardo</strong> and I am an <strong> aspiring software engineer</strong> from Southern California. I enjoy working with the following technologies listed under <strong>Tech Stack!</strong>
 </div>
 
 
