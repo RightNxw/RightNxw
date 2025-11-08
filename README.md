@@ -78,11 +78,20 @@
 **[Stealth Seller](https://stealthseller.co)** • *TypeScript, MongoDB, Discord.js, Stripe*  
 Amazon product tracking SaaS with 10K+ MRR → Six-figure acquisition
 
-**VitalFlow** • *Python, Flask, MySQL, Docker, Streamlit*  
+**[VitalFlow](https://github.com/RightNxw/VitalFlow)** • *Python, Flask, MySQL, Docker, Streamlit*  
 Healthcare management system with 4 distinct user portals and 15+ API endpoints
 
+**[Ticket Tracker](https://github.com/RightNxw/ticket-tracker)** • *TypeScript, Next.js, MongoDB*  
+Real-time venue sales monitoring app tracking ticket availability and pricing trends
+
+**[Revenue Calculator](https://github.com/RightNxw/Revenue-Calculator)** • *TypeScript, Vite*  
+Financial analysis tool for Amazon sellers calculating profit margins with all fees and expenses
+
+**[Pocket Watcher](https://github.com/RightNxw/Pocket-Watcher-Web-App)** • *JavaScript, React, Node.js*  
+Cryptocurrency portfolio tracker with real-time valuations and NFT metadata integration
+
 **ViewSyll** • *TypeScript, Next.js, Claude API*  
-AI-powered syllabus parser that automatically extracts assignments and syncs to Google Calendar
+🚧 **COMING SOON** — AI-powered syllabus parser with automatic Google Calendar sync
 
 ---
 
