@@ -18,7 +18,7 @@
 
 ### 💼 About Me
 
-- Built and sold **Stealth Seller** (stealthseller.co) — scaled to $10K+ MRR before acquisition
+- Built and sold **Stealth Seller** (stealthseller.co) — Built to $10K+ MRR before acquisition
 - Studying Computer Science & Business Administration with a Finance concentration
 - GPA: 3.85 | Dean's List | National Merit Scholar
 
