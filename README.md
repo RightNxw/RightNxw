@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ricardo 👋</h1>
 
 <p align="center">
-  <b>CS & Business @ Northeastern University | Former Co-Founder @ Stealth Seller</b>
+  <b>CS & Math @ Northeastern University | Former Co-Founder @ Stealth Seller</b>
 </p>
 
 <p align="center">
