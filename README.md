@@ -19,7 +19,7 @@
 ### 💼 About Me
 
 - Built and sold **Stealth Seller** (stealthseller.co) — Built to $10K+ MRR before acquisition
-- Studying Computer Science & Business Administration with a Finance concentration
+- Studying Computer Science & Math
 - Dean's List | National Merit Scholar
 
 ---
